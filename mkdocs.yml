@@ -1,0 +1,10 @@
+site_name: onlinelearning.aalto.fi 2017 WP Guide
+pages:
+    - Guide start: index.md
+    - Home page: page-home.mg
+    - News-page: page-news.md
+    - Pilots-page: page-pilots.md
+    - About-page: page-about.md
+    - Guide to online learning -page: page-guide-to-online-learning.md
+
+theme: readthedocs
