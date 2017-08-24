@@ -1,6 +1,8 @@
-# News-page
+# Description
 
-The news page is fairly straight-forward. However, there's one thing you should know:
+The news page is fairly straight-forward - it shows news articles. However, there's one thing you should know:
+
+---
 
 ## How to add a post on the News-page
 
@@ -9,3 +11,5 @@ News-page shows all posts that belong in one or more of these categories: `Blog`
 ![](assets/page-news-6f7f5fe5.png)
 
 Select one or more of the aforementioned categories and you will see your post on the News page.
+
+*Keywords: News article, blog post, blogpost, feed post*

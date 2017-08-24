@@ -1,4 +1,4 @@
-# Home
+# Description
 The home page is where the user first arrives when they come to the site. When editing the home page, you have quite a few things that you can edit on the page.
 
 ---
