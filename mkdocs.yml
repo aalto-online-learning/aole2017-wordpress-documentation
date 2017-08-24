@@ -8,5 +8,6 @@ pages:
     - Pilots-page: page-pilots.md
     - About-page: page-about.md
     - Guide to online learning -page: page-guide-to-online-learning.md
+    - For developers: developers.md
 
 theme: readthedocs

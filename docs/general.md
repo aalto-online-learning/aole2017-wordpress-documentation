@@ -85,3 +85,25 @@ Hiding a page/post is simple. When editing a post, you can see a ![](assets/gene
 *!!!*: IF your page is listed in the navigation menu, you must also remember to remove it from there, too.
 
 ![](assets/general-15933b52.png)
+
+---
+
+## How do I change the email address where feedback is sent?
+
+Click ![](assets/general-54386f63.png)
+
+Click ![](assets/general-71c32ae9.png)
+
+Click ![](assets/general-88f880a7.png):
+
+![](assets/general-1214b9f8.png)
+
+Select the `Mail` tab:
+
+![](assets/general-229dfe76.png)
+
+Change the `To:` field:
+
+![](assets/general-cadbe23e.png)
+
+Scroll down and click ![](assets/general-1fee32cb.png)
