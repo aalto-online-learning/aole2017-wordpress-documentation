@@ -1,7 +1,8 @@
 site_name: onlinelearning.aalto.fi 2017 WP Guide
 pages:
-    - Guide start: index.md
-    - Home page: page-home.mg
+    - Guide briefing: index.md
+    - General WP guidelines: general.md
+    - Home-page: page-home.md
     - News-page: page-news.md
     - Pilots-page: page-pilots.md
     - About-page: page-about.md
