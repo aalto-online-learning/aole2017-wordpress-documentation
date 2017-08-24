@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  <link rel="shortcut icon" href="../img/favicon.ico">
+  <title>For developers - onlinelearning.aalto.fi 2017 WP Guide</title>
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="../css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" type="text/css" />
+  <link rel="stylesheet" href="../css/highlight.css">
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "For developers";
+    var mkdocs_page_input_path = "developers.md";
+    var mkdocs_page_url = "/developers/";
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js"></script>
+  <script src="../js/modernizr-2.8.3.min.js"></script>
+  <script type="text/javascript" src="../js/highlight.pack.js"></script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> onlinelearning.aalto.fi 2017 WP Guide</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+	<ul class="current">
+	  
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="..">Guide briefing</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../general/">General WP guidelines</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../page-home/">Home-page</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../page-news/">News-page</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../page-events/">Events-page</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../page-pilots/">Pilots-page</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../page-about/">About-page</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../page-guide-to-online-learning/">Guide to online learning -page</a>
+	    </li>
+          
+            <li class="toctree-l1 current">
+		
+    <a class="current" href="./">For developers</a>
+    <ul class="subnav">
+            
+    <li class="toctree-l2"><a href="#description">Description</a></li>
+    
+        <ul>
+        
+            <li><a class="toctree-l3" href="#how-would-i-reinstall-the-site">How would I reinstall the site?</a></li>
+        
+            <li><a class="toctree-l3" href="#wordpress">Wordpress:</a></li>
+        
+            <li><a class="toctree-l3" href="#theming">Theming:</a></li>
+        
+        </ul>
+    
+
+    </ul>
+	    </li>
+          
+        </ul>
+      </div>
+      &nbsp;
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">onlinelearning.aalto.fi 2017 WP Guide</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="..">Docs</a> &raquo;</li>
+    
+      
+    
+    <li>For developers</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="description">Description</h1>
+<p>This page tells a bit about the development process.</p>
+<h2 id="how-would-i-reinstall-the-site">How would I reinstall the site?</h2>
+<p>Ask me at taipale.aleksi@gmail.com for the rights to the repository, and we'll continue from that.</p>
+<h2 id="wordpress">Wordpress:</h2>
+<p>The site is built on <a href="http://wordpress.org/">Wordpress</a>, and there are quite a few plugins in use alongside the vanilla WP install.</p>
+<p>Most pages have their own custom php template, such as <code>page-home.php</code> and so forth.</p>
+<h3 id="wordpress-plugins-in-use">Wordpress plugins in use:</h3>
+<p><a href="https://www.advancedcustomfields.com/pro/">Advanced Custom Fields Pro</a></p>
+<p>The site will not work without this plugin, simple and plain. It is used in every custom post type and on every page.</p>
+<hr />
+<p><a href="https://wordpress.org/plugins/akismet/">Akismet</a></p>
+<p>Spam filtering for the feedback form.</p>
+<hr />
+<p><a href="https://wordpress.org/plugins/all-in-one-wp-migration/">All-in-one WP Migration</a></p>
+<p>This is great for importing/backuping the whole site locally when developing. At 24 August 2017 the install on the server is a multi-site install, for which this plugin does not work. However, I recommend this for backing up the site every now and then.</p>
+<hr />
+<p><a href="https://wordpress.org/plugins/contact-form-7/">Contact Form 7</a></p>
+<p>Used for the feedback form at <a href="http://onlinelearning.aalto.fi/feedback">http://onlinelearning.aalto.fi/feedback</a>.</p>
+<hr />
+<p><a href="https://wordpress.org/plugins/disable-comments/">Disable Comments</a></p>
+<p>Disable all the comments on the page.</p>
+<hr />
+<p><a href="https://wordpress.org/plugins/events-manager/">Events Manager</a></p>
+<p>Used extensively for the Events; i.e. changing the plugin used for events might require quite a lot of work. I don't recommend that.</p>
+<hr />
+<p><a href="https://wordpress.org/plugins/post-types-order/">Post Types Order</a></p>
+<p>Used to allow the user to reorder posts.</p>
+<hr />
+<p><a href="https://wordpress.org/plugins/regenerate-thumbnails/">Regenerate Thumbnails</a></p>
+<p>Handy tool for regenerating all thumbnails when you create new image sizes in f.ex. functions.php.</p>
+<hr />
+<p><a href="https://wordpress.org/plugins/twitter/">Twitter</a></p>
+<p>Used for the Twitter feed embed.</p>
+<hr />
+<h2 id="theming">Theming:</h2>
+<p>Custom AOLE2017 theme, built on <a href="https://foundationpress.olefredrik.com/">FoundationPress</a></p>
+<p>To modify the theme, you should get acquainted with the FoundationPress theme, since it is used throughout. The theme files are under <code>scss/custom/</code> as <code>_partialname.scss</code>-files. They are imported in the <code>foundation.scss</code> file. The partials should contain an explanation of what each file affects.</p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+      
+        <a href="../page-guide-to-online-learning/" class="btn btn-neutral" title="Guide to online learning -page"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+	  
+        </div>
+      </div>
+
+    </section>
+    
+  </div>
+
+  <div class="rst-versions" role="note" style="cursor: pointer">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href="../page-guide-to-online-learning/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+    </span>
+</div>
+    <script src="../js/theme.js"></script>
+
+</body>
+</html>
