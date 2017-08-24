@@ -1,0 +1,359 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "onlinelearning.aalto.fi 2017\n\n\nWordpress usage guide\n\n\nThis guide helps you in updating the \n page. Each page on the site is a page in this documentation. For example: if you want to know how to add new pilots on the Pilots-page, you should look at the \nPilots-page\n documentation page.\n\n\nBesides the guides for regular users, I have also included a \nFor developers\n documentation page. While not very extensive, it might help future developers in further developing the Wordpress site.\n\n\nBest,\nAleksi Taipale", 
+            "title": "Guide briefing"
+        }, 
+        {
+            "location": "/#onlinelearningaaltofi-2017", 
+            "text": "Wordpress usage guide  This guide helps you in updating the   page. Each page on the site is a page in this documentation. For example: if you want to know how to add new pilots on the Pilots-page, you should look at the  Pilots-page  documentation page.  Besides the guides for regular users, I have also included a  For developers  documentation page. While not very extensive, it might help future developers in further developing the Wordpress site.  Best,\nAleksi Taipale", 
+            "title": "onlinelearning.aalto.fi 2017"
+        }, 
+        {
+            "location": "/general/", 
+            "text": "Description\n\n\nHere, you will find guidelines that can be applied in multiple places on the site.\n\n\nEditing a page\n\n\nTo get to edit a page you have two options, both of which will take you to the same place (editing the page):\n\n\nA) From the \nPages\n-menu\n\n\nClick \n on the left side of the Wordpress dashboard and then click edit in the box which looks like below (for whichever page you want to edit):\n\n\n\n\nB) From the top bar's \nEdit page\n link\n\n\nYou also click \n from the admin bar on the top when looking at the home page.\n\n\n\n\nChange page header content/image\n\n\n\n\nSome pages have a header section, as per above. You can change the text by editing that pages (e.g. \nNews\n) description:\n\n\n\n\nThe image, then, can be changed by changing the corresponding pages featured image:\n\n\n\n\n\n\nCreating a new piece of content (post/job/event/anything)\n\n\nFor creating a new piece of content (post/job/event/anything), you have once again two ways to do it:\n\n\nA) From the corresponding content type's menu\n\n\nAnother option is to hover your mouse on the left over the corresponding content type's menu, and click \nAdd New\n:\n\n\n\n\nB) From the top bar's \nNew\n dropdown menu\n\n\nHover your mouse over the \nNew\n link in the top bar, and click the content type you want to add and you will be taken to creating a new piece of content of that specific type:\n\n\n\n\n\n\nChanging the menu links\n\n\n\n\nIf you for some reason want to change the links appearing on the navigation menu or to change their names, that is possible. The way to do that is to go from the Dashboard to \n \n-\n \n\n\nUnder \nMenu Structure\n, click the \n on right of \"Page\" and you will see the information of that specific menu link.\n\n\nChange menu link name\n\n\nBy changing the \nNavigation label\n, you can change the name of the menu link:\n\n\n\n\nDelete menu link\n\n\nBy clicking \n you can delete the link from the menu.\n\n\nAdd menu link\n\n\nBy checking the page you want and clicking \nAdd to Menu\n, the link you want will appear in the navigation.\n\n\n\n\nReorder menu link\n\n\nJust drag \n drop the link up or down under \nMenu Structure\n.\n\n\n\n\nHow do I reorder posts?\n\n\nYou can reorder posts of any type. Just go to the page listing those posts, and drag\ndrop them around in the list. You'll see a cursor like \n when you can move a post.\n\n\n\n\nHow do I hide a page / post?\n\n\nHiding a page/post is simple. When editing a post, you can see a \n option. Click \n and select \"Private\".\n\n\n!!!\n: IF your page is listed in the navigation menu, you must also remember to remove it from there, too.\n\n\n\n\n\n\nHow do I change the email address where feedback is sent?\n\n\nClick \n\n\nClick \n\n\nClick \n:\n\n\n\n\nSelect the \nMail\n tab:\n\n\n\n\nChange the \nTo:\n field:\n\n\n\n\nScroll down and click", 
+            "title": "General WP guidelines"
+        }, 
+        {
+            "location": "/general/#description", 
+            "text": "Here, you will find guidelines that can be applied in multiple places on the site.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/general/#editing-a-page", 
+            "text": "To get to edit a page you have two options, both of which will take you to the same place (editing the page):", 
+            "title": "Editing a page"
+        }, 
+        {
+            "location": "/general/#a-from-the-pages-menu", 
+            "text": "Click   on the left side of the Wordpress dashboard and then click edit in the box which looks like below (for whichever page you want to edit):", 
+            "title": "A) From the Pages-menu"
+        }, 
+        {
+            "location": "/general/#b-from-the-top-bars-edit-page-link", 
+            "text": "You also click   from the admin bar on the top when looking at the home page.", 
+            "title": "B) From the top bar's Edit page link"
+        }, 
+        {
+            "location": "/general/#change-page-header-contentimage", 
+            "text": "Some pages have a header section, as per above. You can change the text by editing that pages (e.g.  News ) description:   The image, then, can be changed by changing the corresponding pages featured image:", 
+            "title": "Change page header content/image"
+        }, 
+        {
+            "location": "/general/#creating-a-new-piece-of-content-postjobeventanything", 
+            "text": "For creating a new piece of content (post/job/event/anything), you have once again two ways to do it:", 
+            "title": "Creating a new piece of content (post/job/event/anything)"
+        }, 
+        {
+            "location": "/general/#a-from-the-corresponding-content-types-menu", 
+            "text": "Another option is to hover your mouse on the left over the corresponding content type's menu, and click  Add New :", 
+            "title": "A) From the corresponding content type's menu"
+        }, 
+        {
+            "location": "/general/#b-from-the-top-bars-new-dropdown-menu", 
+            "text": "Hover your mouse over the  New  link in the top bar, and click the content type you want to add and you will be taken to creating a new piece of content of that specific type:", 
+            "title": "B) From the top bar's New dropdown menu"
+        }, 
+        {
+            "location": "/general/#changing-the-menu-links", 
+            "text": "If you for some reason want to change the links appearing on the navigation menu or to change their names, that is possible. The way to do that is to go from the Dashboard to    -    Under  Menu Structure , click the   on right of \"Page\" and you will see the information of that specific menu link.", 
+            "title": "Changing the menu links"
+        }, 
+        {
+            "location": "/general/#change-menu-link-name", 
+            "text": "By changing the  Navigation label , you can change the name of the menu link:", 
+            "title": "Change menu link name"
+        }, 
+        {
+            "location": "/general/#delete-menu-link", 
+            "text": "By clicking   you can delete the link from the menu.", 
+            "title": "Delete menu link"
+        }, 
+        {
+            "location": "/general/#add-menu-link", 
+            "text": "By checking the page you want and clicking  Add to Menu , the link you want will appear in the navigation.", 
+            "title": "Add menu link"
+        }, 
+        {
+            "location": "/general/#reorder-menu-link", 
+            "text": "Just drag   drop the link up or down under  Menu Structure .", 
+            "title": "Reorder menu link"
+        }, 
+        {
+            "location": "/general/#how-do-i-reorder-posts", 
+            "text": "You can reorder posts of any type. Just go to the page listing those posts, and drag drop them around in the list. You'll see a cursor like   when you can move a post.", 
+            "title": "How do I reorder posts?"
+        }, 
+        {
+            "location": "/general/#how-do-i-hide-a-page-post", 
+            "text": "Hiding a page/post is simple. When editing a post, you can see a   option. Click   and select \"Private\".  !!! : IF your page is listed in the navigation menu, you must also remember to remove it from there, too.", 
+            "title": "How do I hide a page / post?"
+        }, 
+        {
+            "location": "/general/#how-do-i-change-the-email-address-where-feedback-is-sent", 
+            "text": "Click   Click   Click  :   Select the  Mail  tab:   Change the  To:  field:   Scroll down and click", 
+            "title": "How do I change the email address where feedback is sent?"
+        }, 
+        {
+            "location": "/page-home/", 
+            "text": "Description\n\n\nThe home page is where the user first arrives when they come to the site. When editing the home page, you have quite a few things that you can edit on the page.\n\n\n\n\nTitle\n\n\n\n\nEditing the title won't change anything yet. For changing the navigation bar links, you have to change the navigation menu, as seen \nhere\n.\n\n\n\n\nTheta Image URL\n\n\n\n\nThis is the URL for the 360 degree image shown on the front page. It needs to be from the \nTheta 360\n site to work.\n\n\nKeywords: 360, VR, Virtual Reality, Theta, 3D, viewer\n\n\n\n\nWhat is A!OLE-content\n\n\n\n\ncorresponds to\n\n\n\n\nKeywords: front page text, homepage text\n\n\n\n\nEmail-form introduction\n\n\n\n\nThis corresponds to the email gathering form (that at the time of launch was hidden, hence no screenshot)\n\n\nKeywords: email form, subscription, e-mail\n\n\n\n\nFor teachers\n\n\n\n\ncorresponds to\n\n\n\n\nFor all\n\n\n\n\ncorresponds to\n\n\n\n\nKeywords: for teachers, for all\n\n\nBlog \n news -Title\n\n\n corresponds to \n\n\nKeywords: Feed title, blog title, blog, feed\n\n\nPilots showcase section\n\n\nThe pilots showcase allows you to choose as many pilots as you want from all the existing pilots in Wordpress. You can reorder the pilots by dragging \n dropping their names on the right side selection box.\n\n\n\n\ncorresponds to\n\n\n\n\nKeywords: showcase, pilot showcase, pilots\n\n\n\n\nWhy online learning? -section\n\n\n\n\ncorresponds to\n\n\n\n\nKeywords: why online learning, changing educational culture, front page post\n\n\n\n\nWhy A!OLE? -section\n\n\n\n\ncorresponds to", 
+            "title": "Home-page"
+        }, 
+        {
+            "location": "/page-home/#description", 
+            "text": "The home page is where the user first arrives when they come to the site. When editing the home page, you have quite a few things that you can edit on the page.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/page-home/#title", 
+            "text": "Editing the title won't change anything yet. For changing the navigation bar links, you have to change the navigation menu, as seen  here .", 
+            "title": "Title"
+        }, 
+        {
+            "location": "/page-home/#theta-image-url", 
+            "text": "This is the URL for the 360 degree image shown on the front page. It needs to be from the  Theta 360  site to work.  Keywords: 360, VR, Virtual Reality, Theta, 3D, viewer", 
+            "title": "Theta Image URL"
+        }, 
+        {
+            "location": "/page-home/#what-is-aole-content", 
+            "text": "corresponds to   Keywords: front page text, homepage text", 
+            "title": "What is A!OLE-content"
+        }, 
+        {
+            "location": "/page-home/#email-form-introduction", 
+            "text": "This corresponds to the email gathering form (that at the time of launch was hidden, hence no screenshot)  Keywords: email form, subscription, e-mail", 
+            "title": "Email-form introduction"
+        }, 
+        {
+            "location": "/page-home/#for-teachers", 
+            "text": "corresponds to", 
+            "title": "For teachers"
+        }, 
+        {
+            "location": "/page-home/#for-all", 
+            "text": "corresponds to", 
+            "title": "For all"
+        }, 
+        {
+            "location": "/page-home/#keywords-for-teachers-for-all", 
+            "text": "", 
+            "title": "Keywords: for teachers, for all"
+        }, 
+        {
+            "location": "/page-home/#blog-news-title", 
+            "text": "corresponds to", 
+            "title": "Blog &amp; news -Title"
+        }, 
+        {
+            "location": "/page-home/#keywords-feed-title-blog-title-blog-feed", 
+            "text": "", 
+            "title": "Keywords: Feed title, blog title, blog, feed"
+        }, 
+        {
+            "location": "/page-home/#pilots-showcase-section", 
+            "text": "The pilots showcase allows you to choose as many pilots as you want from all the existing pilots in Wordpress. You can reorder the pilots by dragging   dropping their names on the right side selection box.   corresponds to   Keywords: showcase, pilot showcase, pilots", 
+            "title": "Pilots showcase section"
+        }, 
+        {
+            "location": "/page-home/#why-online-learning-section", 
+            "text": "corresponds to   Keywords: why online learning, changing educational culture, front page post", 
+            "title": "Why online learning? -section"
+        }, 
+        {
+            "location": "/page-home/#why-aole-section", 
+            "text": "corresponds to", 
+            "title": "Why A!OLE? -section"
+        }, 
+        {
+            "location": "/page-news/", 
+            "text": "Description\n\n\nThe news page is fairly straight-forward - it shows news articles. However, there's one thing you should know:\n\n\n\n\nHow to add a post on the News-page\n\n\nNews-page shows all posts that belong in one or more of these categories: \nBlog\n, \nNews\n, \nAwards\n. Hence, if you want to add a new News-post, you select one of these categories when creating a post. So, \nNew Post\n, and then on the right you will find a categories box:\n\n\n\n\nSelect one or more of the aforementioned categories and you will see your post on the News page.\n\n\nKeywords: News article, blog post, blogpost, feed post", 
+            "title": "News-page"
+        }, 
+        {
+            "location": "/page-news/#description", 
+            "text": "The news page is fairly straight-forward - it shows news articles. However, there's one thing you should know:", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/page-news/#how-to-add-a-post-on-the-news-page", 
+            "text": "News-page shows all posts that belong in one or more of these categories:  Blog ,  News ,  Awards . Hence, if you want to add a new News-post, you select one of these categories when creating a post. So,  New Post , and then on the right you will find a categories box:   Select one or more of the aforementioned categories and you will see your post on the News page.  Keywords: News article, blog post, blogpost, feed post", 
+            "title": "How to add a post on the News-page"
+        }, 
+        {
+            "location": "/page-events/", 
+            "text": "Description\n\n\nThe events page lists all events, past and upcoming ones. It also contains a calendar that you can click to see a specific day's events. The calendar works automatically and is not changeable by the user.\n\n\n\n\nWhy don't I see all events when adding a new event?\n\n\nSometimes, when adding a new event, you might be confused: why do you only see a part of your events? That is because the \nEvents\n-list lists only future events by default. So you have to click the \nFuture events\n dropdown:\n\n\n\n\nand select what you want to see, f.ex. \nAll events\n:\n\n\n\n\nAnd click \n, and you will see your selection:\n\n\n\n\nAdding a new event\n\n\nWhen making a new \nEvent\n, there are some things you need to know.\n\n\nEvent date \n time\n\n\nThe event time is selected on the top right. Remember to recheck your months! The date selector is always in the current month by default.\n\n\n\n\nEvent location\n\n\nFor the event location, you need a name, an Address and a City/Town (and a Country, but that should be Finland by default). The plugin saves previous locations, so you can try typing the first few letters to see if the location is there already and the form would autosuggest it (if somebody has used it previously).\n\n\n\n\nEvent categories\n\n\nChoose the event categories you want to use for your event.\n\n\n\n\nFeatured image\n\n\nSet a featured image for your event. Preferably \n788x265\n(low-resolution) or \n1576x530\n(high-resolution). If not possible, try to have a wide rectangular image: those display the best.\n\n\nRegistration link\n\n\nJust a http://google.com type of URL.\n\nHow do I register to this event? If it's only for pilots, this link should probably lead to Inside instead of directly to the form. If it's a public event, you might as well link directly to the form (Doodle, Google Forms, whichever).\n\n\nAdding facilitators\n\n\nYou can add multiple facilitators using the \n button, or you can keep just one facilitator in.\n\n\nIf the facilitator is a person: FIRSTNAME LASTNAME, Organization. E.g. JOHN DOE, Aalto University // If the facilitator is an organization: ORGANIZATION. e.g. AALTO ONLINE LEARNING\n\n\n\n\nOnly for pilots or not?\n\n\nSome A!OLE events are specifically for A!OLE pilots. Check this box if your event is only for pilots, leave it unchecked if it's for everyone.", 
+            "title": "Events-page"
+        }, 
+        {
+            "location": "/page-events/#description", 
+            "text": "The events page lists all events, past and upcoming ones. It also contains a calendar that you can click to see a specific day's events. The calendar works automatically and is not changeable by the user.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/page-events/#why-dont-i-see-all-events-when-adding-a-new-event", 
+            "text": "Sometimes, when adding a new event, you might be confused: why do you only see a part of your events? That is because the  Events -list lists only future events by default. So you have to click the  Future events  dropdown:   and select what you want to see, f.ex.  All events :   And click  , and you will see your selection:", 
+            "title": "Why don't I see all events when adding a new event?"
+        }, 
+        {
+            "location": "/page-events/#adding-a-new-event", 
+            "text": "When making a new  Event , there are some things you need to know.", 
+            "title": "Adding a new event"
+        }, 
+        {
+            "location": "/page-events/#event-date-time", 
+            "text": "The event time is selected on the top right. Remember to recheck your months! The date selector is always in the current month by default.", 
+            "title": "Event date &amp; time"
+        }, 
+        {
+            "location": "/page-events/#event-location", 
+            "text": "For the event location, you need a name, an Address and a City/Town (and a Country, but that should be Finland by default). The plugin saves previous locations, so you can try typing the first few letters to see if the location is there already and the form would autosuggest it (if somebody has used it previously).", 
+            "title": "Event location"
+        }, 
+        {
+            "location": "/page-events/#event-categories", 
+            "text": "Choose the event categories you want to use for your event.", 
+            "title": "Event categories"
+        }, 
+        {
+            "location": "/page-events/#featured-image", 
+            "text": "Set a featured image for your event. Preferably  788x265 (low-resolution) or  1576x530 (high-resolution). If not possible, try to have a wide rectangular image: those display the best.", 
+            "title": "Featured image"
+        }, 
+        {
+            "location": "/page-events/#registration-link", 
+            "text": "Just a http://google.com type of URL. How do I register to this event? If it's only for pilots, this link should probably lead to Inside instead of directly to the form. If it's a public event, you might as well link directly to the form (Doodle, Google Forms, whichever).", 
+            "title": "Registration link"
+        }, 
+        {
+            "location": "/page-events/#adding-facilitators", 
+            "text": "You can add multiple facilitators using the   button, or you can keep just one facilitator in.  If the facilitator is a person: FIRSTNAME LASTNAME, Organization. E.g. JOHN DOE, Aalto University // If the facilitator is an organization: ORGANIZATION. e.g. AALTO ONLINE LEARNING", 
+            "title": "Adding facilitators"
+        }, 
+        {
+            "location": "/page-events/#only-for-pilots-or-not", 
+            "text": "Some A!OLE events are specifically for A!OLE pilots. Check this box if your event is only for pilots, leave it unchecked if it's for everyone.", 
+            "title": "Only for pilots or not?"
+        }, 
+        {
+            "location": "/page-pilots/", 
+            "text": "Description\n\n\nThe pilots page gathers all the pilots in their respective Theme Groups.\n\n\nHow do I add a Theme Group?\n\n\nA Theme Group is added from \n \n-\n \n. \n-\n Add New Category\n:\n\n\n\n\n\n\nKeywords: Adding a theme group, new theme group\n\n\nHow do I put a pilot in a theme group?\n\n\nWhen you edit a pilot page or create a new pilot page, you can see a \nTheme Groups\n box on the right side of the editing box. Select a theme from there:\n\n\n\n\nBe wary, however: pilots can have multiple themes. If you want to change a theme, remember to uncheck the other one.\n\n\nKeywords: change theme, changing theme, put pilot to theme, pilot in theme\n\n\n\n\nAdding a new pilot\n\n\nYou can add a new pilot as explained in \nGeneral\n. When adding a new pilot, there are some things that you need to include and some that are optional.\n\n\nSubtitle\n\n\n\n\nThe subtitle will be shown below the pilot title. It is not required but it is good for making the reader interested to read more about the pilot.\n\n\n\n\nDescription\n\n\n\n\n\n\nPeople\n\n\n\n\n\n\nTools used, Links \n materials, Reflection\n\n\nSection is shown\n\n\n\n\nThis setting decides whether the section in question is shown on this pilot page.\n\n\nTools used / Links \n materials / Reflection\n\nThe content for the corresponding section.", 
+            "title": "Pilots-page"
+        }, 
+        {
+            "location": "/page-pilots/#description", 
+            "text": "The pilots page gathers all the pilots in their respective Theme Groups.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/page-pilots/#how-do-i-add-a-theme-group", 
+            "text": "A Theme Group is added from    -   .  -  Add New Category :    Keywords: Adding a theme group, new theme group", 
+            "title": "How do I add a Theme Group?"
+        }, 
+        {
+            "location": "/page-pilots/#how-do-i-put-a-pilot-in-a-theme-group", 
+            "text": "When you edit a pilot page or create a new pilot page, you can see a  Theme Groups  box on the right side of the editing box. Select a theme from there:   Be wary, however: pilots can have multiple themes. If you want to change a theme, remember to uncheck the other one.  Keywords: change theme, changing theme, put pilot to theme, pilot in theme", 
+            "title": "How do I put a pilot in a theme group?"
+        }, 
+        {
+            "location": "/page-pilots/#adding-a-new-pilot", 
+            "text": "You can add a new pilot as explained in  General . When adding a new pilot, there are some things that you need to include and some that are optional.", 
+            "title": "Adding a new pilot"
+        }, 
+        {
+            "location": "/page-pilots/#subtitle", 
+            "text": "The subtitle will be shown below the pilot title. It is not required but it is good for making the reader interested to read more about the pilot.", 
+            "title": "Subtitle"
+        }, 
+        {
+            "location": "/page-pilots/#description_1", 
+            "text": "", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/page-pilots/#people", 
+            "text": "", 
+            "title": "People"
+        }, 
+        {
+            "location": "/page-pilots/#tools-used-links-materials-reflection", 
+            "text": "Section is shown   This setting decides whether the section in question is shown on this pilot page.  Tools used / Links   materials / Reflection \nThe content for the corresponding section.", 
+            "title": "Tools used, Links &amp; materials, Reflection"
+        }, 
+        {
+            "location": "/page-about/", 
+            "text": "Description\n\n\nThe about page shows three things: a brief description of what A!OLE is, a list of core team members and all the articles that have been categorized under \"About\".\n\n\n\n\nHow to add/delete core team members?\n\n\nWhen you add a new \nTeam Member\n, it will automatically be added to the list of Core Team Members. Same goes vice-versa: when you delete or hide a \nTeam Member\n, it will also be deleted/hidden from the list.\n\n\n\n\nHow to add/delete an article to the About-page?\n\n\nWhen you select \nAbout\n as a category for your Wordpress page, it will automatically be shown on the About page.\n\n\n\n\nHow do I add images to the articles on About-page?\n\n\nWhen making a post with the \nAbout\n-category, you will have the option of adding max. 2 images to that specific article, as seen here:", 
+            "title": "About-page"
+        }, 
+        {
+            "location": "/page-about/#description", 
+            "text": "The about page shows three things: a brief description of what A!OLE is, a list of core team members and all the articles that have been categorized under \"About\".", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/page-about/#how-to-adddelete-core-team-members", 
+            "text": "When you add a new  Team Member , it will automatically be added to the list of Core Team Members. Same goes vice-versa: when you delete or hide a  Team Member , it will also be deleted/hidden from the list.", 
+            "title": "How to add/delete core team members?"
+        }, 
+        {
+            "location": "/page-about/#how-to-adddelete-an-article-to-the-about-page", 
+            "text": "When you select  About  as a category for your Wordpress page, it will automatically be shown on the About page.", 
+            "title": "How to add/delete an article to the About-page?"
+        }, 
+        {
+            "location": "/page-about/#how-do-i-add-images-to-the-articles-on-about-page", 
+            "text": "When making a post with the  About -category, you will have the option of adding max. 2 images to that specific article, as seen here:", 
+            "title": "How do I add images to the articles on About-page?"
+        }, 
+        {
+            "location": "/page-guide-to-online-learning/", 
+            "text": "Description\n\n\nThe guide to online learning describes online learning tools and what they are used for.\n\n\nWhat is Aalto Learning IT?\n\n\nThis section explains what Aalto Learning IT is. A title and a description, no more, no less.\n\n\nOnline tool categories\n\n\nIn this part, you can create new \nOnline Tool Categories\n, under which you can then add new \nOnline Learning Tools\n. It's fairly simple.\n\n\nAdd the title here:\n\n\n\n\nAdd the description here:\n\n\n\n\nAnd select the Aalto-supported tools here:\n\n\n\n\nAnd the other tools here:\n\n\n\n\nClick the \n button if you want to add a new Online tool category.", 
+            "title": "Guide to online learning -page"
+        }, 
+        {
+            "location": "/page-guide-to-online-learning/#description", 
+            "text": "The guide to online learning describes online learning tools and what they are used for.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/page-guide-to-online-learning/#what-is-aalto-learning-it", 
+            "text": "This section explains what Aalto Learning IT is. A title and a description, no more, no less.", 
+            "title": "What is Aalto Learning IT?"
+        }, 
+        {
+            "location": "/page-guide-to-online-learning/#online-tool-categories", 
+            "text": "In this part, you can create new  Online Tool Categories , under which you can then add new  Online Learning Tools . It's fairly simple.  Add the title here:   Add the description here:   And select the Aalto-supported tools here:   And the other tools here:   Click the   button if you want to add a new Online tool category.", 
+            "title": "Online tool categories"
+        }, 
+        {
+            "location": "/developers/", 
+            "text": "Description\n\n\nThis page tells a bit about the development process.\n\n\nHow would I reinstall the site?\n\n\nAsk me at taipale.aleksi@gmail.com for the rights to the repository, and we'll continue from that.\n\n\nWordpress:\n\n\nThe site is built on \nWordpress\n, and there are quite a few plugins in use alongside the vanilla WP install.\n\n\nMost pages have their own custom php template, such as \npage-home.php\n and so forth.\n\n\nWordpress plugins in use:\n\n\nAdvanced Custom Fields Pro\n\n\nThe site will not work without this plugin, simple and plain. It is used in every custom post type and on every page.\n\n\n\n\nAkismet\n\n\nSpam filtering for the feedback form.\n\n\n\n\nAll-in-one WP Migration\n\n\nThis is great for importing/backuping the whole site locally when developing. At 24 August 2017 the install on the server is a multi-site install, for which this plugin does not work. However, I recommend this for backing up the site every now and then.\n\n\n\n\nContact Form 7\n\n\nUsed for the feedback form at \nhttp://onlinelearning.aalto.fi/feedback\n.\n\n\n\n\nDisable Comments\n\n\nDisable all the comments on the page.\n\n\n\n\nEvents Manager\n\n\nUsed extensively for the Events; i.e. changing the plugin used for events might require quite a lot of work. I don't recommend that.\n\n\n\n\nPost Types Order\n\n\nUsed to allow the user to reorder posts.\n\n\n\n\nRegenerate Thumbnails\n\n\nHandy tool for regenerating all thumbnails when you create new image sizes in f.ex. functions.php.\n\n\n\n\nTwitter\n\n\nUsed for the Twitter feed embed.\n\n\n\n\nTheming:\n\n\nCustom AOLE2017 theme, built on \nFoundationPress\n\n\nTo modify the theme, you should get acquainted with the FoundationPress theme, since it is used throughout. The theme files are under \nscss/custom/\n as \n_partialname.scss\n-files. They are imported in the \nfoundation.scss\n file. The partials should contain an explanation of what each file affects.", 
+            "title": "For developers"
+        }, 
+        {
+            "location": "/developers/#description", 
+            "text": "This page tells a bit about the development process.", 
+            "title": "Description"
+        }, 
+        {
+            "location": "/developers/#how-would-i-reinstall-the-site", 
+            "text": "Ask me at taipale.aleksi@gmail.com for the rights to the repository, and we'll continue from that.", 
+            "title": "How would I reinstall the site?"
+        }, 
+        {
+            "location": "/developers/#wordpress", 
+            "text": "The site is built on  Wordpress , and there are quite a few plugins in use alongside the vanilla WP install.  Most pages have their own custom php template, such as  page-home.php  and so forth.", 
+            "title": "Wordpress:"
+        }, 
+        {
+            "location": "/developers/#wordpress-plugins-in-use", 
+            "text": "Advanced Custom Fields Pro  The site will not work without this plugin, simple and plain. It is used in every custom post type and on every page.   Akismet  Spam filtering for the feedback form.   All-in-one WP Migration  This is great for importing/backuping the whole site locally when developing. At 24 August 2017 the install on the server is a multi-site install, for which this plugin does not work. However, I recommend this for backing up the site every now and then.   Contact Form 7  Used for the feedback form at  http://onlinelearning.aalto.fi/feedback .   Disable Comments  Disable all the comments on the page.   Events Manager  Used extensively for the Events; i.e. changing the plugin used for events might require quite a lot of work. I don't recommend that.   Post Types Order  Used to allow the user to reorder posts.   Regenerate Thumbnails  Handy tool for regenerating all thumbnails when you create new image sizes in f.ex. functions.php.   Twitter  Used for the Twitter feed embed.", 
+            "title": "Wordpress plugins in use:"
+        }, 
+        {
+            "location": "/developers/#theming", 
+            "text": "Custom AOLE2017 theme, built on  FoundationPress  To modify the theme, you should get acquainted with the FoundationPress theme, since it is used throughout. The theme files are under  scss/custom/  as  _partialname.scss -files. They are imported in the  foundation.scss  file. The partials should contain an explanation of what each file affects.", 
+            "title": "Theming:"
+        }
+    ]
+}

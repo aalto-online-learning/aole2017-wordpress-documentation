@@ -7,7 +7,7 @@ This page tells a bit about the development process.
 Ask me at taipale.aleksi@gmail.com for the rights to the repository, and we'll continue from that.
 
 ##Wordpress:
-The site is built on [Wordpress](http://wordpress.org/), and there are quite a few plugins in use alongside the vanilla WP install.
+The site is built on [Wordpress](http://wordpress.org/), and there are quite a few plugins in use alongside the vanilla WordPress installation
 
 Most pages have their own custom php template, such as `page-home.php` and so forth.
 
