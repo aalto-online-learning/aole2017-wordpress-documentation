@@ -34,3 +34,8 @@ Hover your mouse over the `New` link in the top bar, and click the content type 
 ![](assets/general-7a64a874.png)
 
 ----
+
+* how to change menu links
+* how to change right header content/ left header image
+* how to hide page
+* how to reorder posts/team members/whe
