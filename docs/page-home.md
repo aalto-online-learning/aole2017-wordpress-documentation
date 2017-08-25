@@ -54,12 +54,14 @@ corresponds to
 ![](assets/page-home-f2f15397.png)
 
 *Keywords: for teachers, for all*
+
 ---
 
 ## Blog & news -Title
 ![](assets/page-home-eb793576.png) corresponds to ![](assets/page-home-62d0dfd8.png)
 
 *Keywords: Feed title, blog title, blog, feed*
+
 ---
 
 ## Pilots showcase section
