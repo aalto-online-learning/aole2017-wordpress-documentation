@@ -97,7 +97,7 @@
         }, 
         {
             "location": "/page-home/", 
-            "text": "Description\n\n\nThe home page is where the user first arrives when they come to the site. When editing the home page, you have quite a few things that you can edit on the page.\n\n\n\n\nTitle\n\n\n\n\nEditing the title won't change anything yet. For changing the navigation bar links, you have to change the navigation menu, as seen \nhere\n.\n\n\n\n\nTheta Image URL\n\n\n\n\nThis is the URL for the 360 degree image shown on the front page. It needs to be from the \nTheta 360\n site to work.\n\n\nKeywords: 360, VR, Virtual Reality, Theta, 3D, viewer\n\n\n\n\nWhat is A!OLE-content\n\n\n\n\ncorresponds to\n\n\n\n\nKeywords: front page text, homepage text\n\n\n\n\nEmail-form introduction\n\n\n\n\nThis corresponds to the email gathering form (that at the time of launch was hidden, hence no screenshot)\n\n\nKeywords: email form, subscription, e-mail\n\n\n\n\nFor teachers\n\n\n\n\ncorresponds to\n\n\n\n\nFor all\n\n\n\n\ncorresponds to\n\n\n\n\nKeywords: for teachers, for all\n\n\nBlog \n news -Title\n\n\n corresponds to \n\n\nKeywords: Feed title, blog title, blog, feed\n\n\nPilots showcase section\n\n\nThe pilots showcase allows you to choose as many pilots as you want from all the existing pilots in Wordpress. You can reorder the pilots by dragging \n dropping their names on the right side selection box.\n\n\n\n\ncorresponds to\n\n\n\n\nKeywords: showcase, pilot showcase, pilots\n\n\n\n\nWhy online learning? -section\n\n\n\n\ncorresponds to\n\n\n\n\nKeywords: why online learning, changing educational culture, front page post\n\n\n\n\nWhy A!OLE? -section\n\n\n\n\ncorresponds to", 
+            "text": "Description\n\n\nThe home page is where the user first arrives when they come to the site. When editing the home page, you have quite a few things that you can edit on the page.\n\n\n\n\nTitle\n\n\n\n\nEditing the title won't change anything yet. For changing the navigation bar links, you have to change the navigation menu, as seen \nhere\n.\n\n\n\n\nTheta Image URL\n\n\n\n\nThis is the URL for the 360 degree image shown on the front page. It needs to be from the \nTheta 360\n site to work.\n\n\nKeywords: 360, VR, Virtual Reality, Theta, 3D, viewer\n\n\n\n\nWhat is A!OLE-content\n\n\n\n\ncorresponds to\n\n\n\n\nKeywords: front page text, homepage text\n\n\n\n\nEmail-form introduction\n\n\n\n\nThis corresponds to the email gathering form (that at the time of launch was hidden, hence no screenshot)\n\n\nKeywords: email form, subscription, e-mail\n\n\n\n\nFor teachers\n\n\n\n\ncorresponds to\n\n\n\n\nFor all\n\n\n\n\ncorresponds to\n\n\n\n\nKeywords: for teachers, for all\n\n\n\n\nBlog \n news -Title\n\n\n corresponds to \n\n\nKeywords: Feed title, blog title, blog, feed\n\n\n\n\nPilots showcase section\n\n\nThe pilots showcase allows you to choose as many pilots as you want from all the existing pilots in Wordpress. You can reorder the pilots by dragging \n dropping their names on the right side selection box.\n\n\n\n\ncorresponds to\n\n\n\n\nKeywords: showcase, pilot showcase, pilots\n\n\n\n\nWhy online learning? -section\n\n\n\n\ncorresponds to\n\n\n\n\nKeywords: why online learning, changing educational culture, front page post\n\n\n\n\nWhy A!OLE? -section\n\n\n\n\ncorresponds to", 
             "title": "Home-page"
         }, 
         {
@@ -132,23 +132,13 @@
         }, 
         {
             "location": "/page-home/#for-all", 
-            "text": "corresponds to", 
+            "text": "corresponds to   Keywords: for teachers, for all", 
             "title": "For all"
         }, 
         {
-            "location": "/page-home/#keywords-for-teachers-for-all", 
-            "text": "", 
-            "title": "Keywords: for teachers, for all"
-        }, 
-        {
             "location": "/page-home/#blog-news-title", 
-            "text": "corresponds to", 
+            "text": "corresponds to   Keywords: Feed title, blog title, blog, feed", 
             "title": "Blog &amp; news -Title"
-        }, 
-        {
-            "location": "/page-home/#keywords-feed-title-blog-title-blog-feed", 
-            "text": "", 
-            "title": "Keywords: Feed title, blog title, blog, feed"
         }, 
         {
             "location": "/page-home/#pilots-showcase-section", 

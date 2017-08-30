@@ -6,13 +6,20 @@ The about page shows three things: a brief description of what A!OLE is, a list 
 
 ## How to add/delete core team members?
 
-When you add a new `Team Member`, it will automatically be added to the list of Core Team Members. Same goes vice-versa: when you delete or hide a `Team Member`, it will also be deleted/hidden from the list.
+Select the Team Members from the Core Team Members -selector shown below:
+
+![](assets/page-about-65fa7dff.png)
 
 ---
 
 ## How to add/delete an article to the About-page?
 
-When you select `About` as a category for your Wordpress page, it will automatically be shown on the About page.
+1. Select "About" as a category for your post
+2. When editing the About-page, select the articles you want to be shown in the selector shown below:
+
+![](assets/page-about-e4e36fd3.png)
+
+
 
 ---
 
