@@ -272,7 +272,7 @@
         }, 
         {
             "location": "/page-about/", 
-            "text": "Description\n\n\nThe about page shows three things: a brief description of what A!OLE is, a list of core team members and all the articles that have been categorized under \"About\".\n\n\n\n\nHow to add/delete core team members?\n\n\nWhen you add a new \nTeam Member\n, it will automatically be added to the list of Core Team Members. Same goes vice-versa: when you delete or hide a \nTeam Member\n, it will also be deleted/hidden from the list.\n\n\n\n\nHow to add/delete an article to the About-page?\n\n\nWhen you select \nAbout\n as a category for your Wordpress page, it will automatically be shown on the About page.\n\n\n\n\nHow do I add images to the articles on About-page?\n\n\nWhen making a post with the \nAbout\n-category, you will have the option of adding max. 2 images to that specific article, as seen here:", 
+            "text": "Description\n\n\nThe about page shows three things: a brief description of what A!OLE is, a list of core team members and all the articles that have been categorized under \"About\".\n\n\n\n\nHow to add/delete core team members?\n\n\nSelect the Team Members from the Core Team Members -selector shown below:\n\n\n\n\n\n\nHow to add/delete an article to the About-page?\n\n\n\n\nSelect \"About\" as a category for your post\n\n\nWhen editing the About-page, select the articles you want to be shown in the selector shown below:\n\n\n\n\n\n\n\n\nHow do I add images to the articles on About-page?\n\n\nWhen making a post with the \nAbout\n-category, you will have the option of adding max. 2 images to that specific article, as seen here:", 
             "title": "About-page"
         }, 
         {
@@ -282,12 +282,12 @@
         }, 
         {
             "location": "/page-about/#how-to-adddelete-core-team-members", 
-            "text": "When you add a new  Team Member , it will automatically be added to the list of Core Team Members. Same goes vice-versa: when you delete or hide a  Team Member , it will also be deleted/hidden from the list.", 
+            "text": "Select the Team Members from the Core Team Members -selector shown below:", 
             "title": "How to add/delete core team members?"
         }, 
         {
             "location": "/page-about/#how-to-adddelete-an-article-to-the-about-page", 
-            "text": "When you select  About  as a category for your Wordpress page, it will automatically be shown on the About page.", 
+            "text": "Select \"About\" as a category for your post  When editing the About-page, select the articles you want to be shown in the selector shown below:", 
             "title": "How to add/delete an article to the About-page?"
         }, 
         {
